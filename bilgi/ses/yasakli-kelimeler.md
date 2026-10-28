@@ -1,7 +1,7 @@
 # Yasaklar: bu dosyadakiler hiçbir metinde geçmez
 
 ## Kelime ve kalıplar
-- "en iyi", "1 numara", "garantili", "%100", "24 saat kalıcı garantisi" (kanıtlanamayan iddia)
+- "en iyi", "1 numara", "garantili", "%100" (kumaş oranı hariç: "%100 pamuk" serbest), "24 saat kalıcı garantisi" (kanıtlanamayan iddia)
 - "kaçırma", "son şans", "stoklar tükeniyor" (gerçek değilse; sahte aciliyet)
 - "orijinal", "muadil", "birebir", "kokusu", "dupe" + başka marka adı
 - "doğal / organik / hipoalerjenik" (belge yoksa)

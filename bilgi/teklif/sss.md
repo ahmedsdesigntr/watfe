@@ -7,7 +7,7 @@
 Teslimden sonra 14 gün içinde, kullanılmamış ve etiketi sökülmemiş ürün ücretsiz iade. Değişim de aynı süre. storeseyyah@gmail.com adresine sipariş numaranla yaz.
 
 **Beden nasıl seçilir?**
-Ürün sayfasında kalıp yazıyor (oversize, regular, crop). Arada kalırsan bir büyük beden al. Beden tablosu: https://seyyah-xi.vercel.app/beden-rehberi.html
+Tişörtler oversize, S–XL. Hoodie S–XXL, sweatshirt S–XL. Arada kalırsan bir büyük beden al. Beden tablosu: https://seyyah-xi.vercel.app/beden-rehberi.html
 
 **Ödeme yöntemleri?**
 Kredi/banka kartı, havale/EFT, kapıda ödeme (+25₺).
