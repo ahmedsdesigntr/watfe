@@ -22,5 +22,5 @@ link (UTM'li): bio → https://seyyah-xi.vercel.app/shop.html?cat=parfum&utm_sou
 dosya: cikti/20261108-ada-aksam.mp4 · kapak: cikti/20261108-ada-aksam-kapak.jpg
 kapak başlığı önerileri: "Akşam oldu, ADA hâlâ üstünde" · "ADA: sabahtan akşama" · "ROTA #3 · ADA"
 yorum kelimesi: ADA → DM: bilgi/topluluk/dm-metinleri.md, 2. metin ([GONDERI] = 20261108-ada-aksam)
-kural kontrolü: ses ✓ · yasaklar ✓ · fiyatın kaynağı ✓ · UTM ✓ · kesin saat yok ✓ (ekranda saat değil "sabah/akşam" var, açıklamada "cildine göre değişir" uyarısı) · ticari ses ✓ → GEÇTİ (ilk turda ses lisansı yüzünden KALDI)
+kural kontrolü: ses ✓ · yasaklar ✓ · fiyatın kaynağı ✓ · UTM ✓ · kesin saat yok ✓ (ekranda saat değil "sabah/akşam" var, açıklamada "cildine göre değişir" uyarısı) · ticari ses ✓ (ilk turda ses lisansı yüzünden KALDI, kontrolün önerdiği düzeltme uygulandı)
 not: Çekimi tek gün içinde gerçek sıralamayla yap. İddia, görüntünün kendisi. Otobüs, kahve bardağı gibi başka markaların logoları kadraja girmesin.

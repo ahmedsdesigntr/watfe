@@ -19,5 +19,5 @@ etiketler: #parfüm #extraitdeparfum #seyyahstore
 link (UTM'li): bio → https://seyyah-xi.vercel.app/shop.html?cat=parfum&utm_source=instagram&utm_medium=bio&utm_campaign=ada&utm_content=20261106-ada-extrait
 dosya: cikti/20261106-ada-extrait-1..7.png · kapak: 1. sayfa
 yorum kelimesi: ADA → DM: bilgi/topluluk/dm-metinleri.md, 2. metin ([GONDERI] = 20261106-ada-extrait)
-kural kontrolü: ses ✓ · yasaklar ✓ · fiyatın kaynağı ✓ · UTM ✓ · yüzde/rakam uydurma yok ✓ (oran vermedim, yalnız sıralama) · tek çağrı ✓ · kesin saat yok ✓ → GEÇTİ
-not: Marka kontrolü ilk turda çift çağrı (Kaydet + ADA) yüzünden KALDI verdi; tek çağrıya indirildi, ikinci turda GEÇTİ.
+kural kontrolü: ses ✓ · yasaklar ✓ · fiyatın kaynağı ✓ · UTM ✓ · yüzde/rakam uydurma yok ✓ (oran vermedim, yalnız sıralama) · tek çağrı ✓ · kesin saat yok ✓
+not: Marka kontrolü ilk turda çift çağrı (Kaydet + ADA) yüzünden KALDI verdi; kontrolün önerdiği tek çağrılı hâl uygulandı.
