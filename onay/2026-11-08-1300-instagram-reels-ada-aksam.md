@@ -2,7 +2,7 @@ durum: bekliyor
 kanal: Instagram Reels · Pazar 8 Kasım 13:00 (Europe/Istanbul) · TikTok uyarlaması aynı gün 20:00
 ürün: Ada
 kanca: "POV: Akşam oldu, Ada hâlâ üstünde." (POV)
-senaryo (20 sn, konuşma yok, trend ses ya da sakin müzik; TikTok'ta Ticari Ses Kütüphanesi):
+senaryo (20 sn, konuşma yok, sakin enstrümantal müzik; Instagram'da ticari kullanıma uygun ses, TikTok'ta Ticari Ses Kütüphanesi):
 | # | Süre | Görüntü | Ekran yazısı | Ses | Geçiş |
 |---|---|---|---|---|---|
 | 1 | 0-2 sn | Akşam, bileği burnuna götürüp koklama, yakın plan | POV: Akşam oldu, Ada hâlâ üstünde. | müzik | sert kesme |
@@ -22,5 +22,5 @@ link (UTM'li): bio → https://seyyah-xi.vercel.app/shop.html?cat=parfum&utm_sou
 dosya: cikti/20261108-ada-aksam.mp4 · kapak: cikti/20261108-ada-aksam-kapak.jpg
 kapak başlığı önerileri: "Akşam oldu, ADA hâlâ üstünde" · "ADA: sabahtan akşama" · "ROTA #3 · ADA"
 yorum kelimesi: ADA → DM: bilgi/topluluk/dm-metinleri.md, 2. metin ([GONDERI] = 20261108-ada-aksam)
-kural kontrolü: ses ✓ · yasaklar ✓ · fiyatın kaynağı ✓ · UTM ✓ · kesin saat yok ✓ (ekranda saat değil "sabah/akşam" var, açıklamada "cildine göre değişir" uyarısı) → GEÇTİ
+kural kontrolü: ses ✓ · yasaklar ✓ · fiyatın kaynağı ✓ · UTM ✓ · kesin saat yok ✓ (ekranda saat değil "sabah/akşam" var, açıklamada "cildine göre değişir" uyarısı) · ticari ses ✓ → GEÇTİ (ilk turda ses lisansı yüzünden KALDI)
 not: Çekimi tek gün içinde gerçek sıralamayla yap. İddia, görüntünün kendisi. Otobüs, kahve bardağı gibi başka markaların logoları kadraja girmesin.

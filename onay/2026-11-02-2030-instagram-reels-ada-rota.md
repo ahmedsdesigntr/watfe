@@ -12,7 +12,7 @@ senaryo (18 sn, konuşma yok, sakin enstrümantal müzik):
 | 5 | 15-18 sn | Elde 10 ml deneme şişesi | 10 ml deneme boyu 149₺ · Yorumuna ADA yaz | müzik söner | — |
 açıklama:
 Her kokunun bir rotası var. Bu, Ada. 🧭
-Extrait de Parfum: en yoğun parfüm türü, birkaç fıs yeter.
+Extrait de Parfum: en yoğun parfüm türü, birkaç fıs yeter (kalıcılık cildine göre değişir).
 Kokuyu tanımadan büyük şişeye para verme. 10 ml deneme boyu 149₺.
 Yorumuna ADA yaz, linki DM'den göndereyim.
 TikTok (1 satır): Her kokunun bir rotası var. Bu, Ada 🧭 10 ml 149₺, yorumuna ADA yaz. #parfümönerisi #extraitdeparfum #seyyahstore
