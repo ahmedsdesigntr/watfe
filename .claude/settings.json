@@ -1,0 +1,26 @@
+{
+  "enabledMcpjsonServers": [
+    "zernio"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__zernio__search_tools",
+      "mcp__zernio__analytics_get_instagram_account_insights",
+      "mcp__zernio__analytics_get_instagram_demographics",
+      "mcp__zernio__instagram_get_instagram_story_insights",
+      "mcp__zernio__comments_get_inbox_post_comments",
+      "mcp__zernio__messages_list_inbox_conversations"
+    ],
+    "ask": [
+      "mcp__zernio__call_tool",
+      "mcp__zernio__posts_create",
+      "mcp__zernio__posts_create_post",
+      "mcp__zernio__comments_reply_to_inbox_post",
+      "mcp__zernio__comments_hide_inbox_comment",
+      "mcp__zernio__messages_send_inbox_message",
+      "mcp__zernio__comments_send_private_reply_to_comment",
+      "mcp__zernio__comment_automations_create_comment_automation",
+      "mcp__zernio__account_settings_set_instagram_ice_breakers"
+    ]
+  }
+}
